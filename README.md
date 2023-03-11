@@ -6,6 +6,7 @@
 - 👯 I’m looking to collaborate on any interesting projects which can further my knowledge 
 - 📫 How to reach me: 
   - 🏢 : [LinkedIn](https://www.linkedin.com/in/prithvishah23/)
+  - :trollface: : [Instagram](https://instagram.com/_prithvishah_?igshid=YmMyMTA2M2Y=)
 
 
 ## My Tech Stack
