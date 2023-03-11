@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there. I'm Prithvi👋
 
 
 - 🔭 I love AIML, Data Science, programming and math
